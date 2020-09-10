@@ -4,13 +4,13 @@
   1. Go to https://portal.azure.com/, login to your account if prompted.
   2. Click 'Create a resource' from the menu on the left.
   3. On the next page, select the 'AI + Machine Learning' category.
-  4. Click 'Bing Search v7' from the options on the right.
+  4. Click 'Bing Search' from the options on the right.
   5. On the next page, fill out the required info accordingly:
      1. Name: mybamaID-421-search-api
-     2. Subscription: Azure for Students
-     3. Pricing tier: F1
-     4. Resource group: Click 'Create new' under the dropdown menu, give the new group a name and click OK.
-     5. Resource group location: (US) Central US
+     2. Subscription: Assignment 2 JQuery and AJAX
+     3. Pricing tier: Free F1
+     4. Resource group: Click 'Create new' under the dropdown menu, give the new group a name and click OK. Or you can choose an existing resource group like the one from Assignment 1. Resource groups are only for organization.
+     5. Check the confirmation checkbox.
   6. Click Create at the bottom of the page. Wait for Azure to deploy the API.
   7. Click the 'Go to resource' button once it appears.
   8. Take note of your API key and endpoint URL, this is how you will access your API through your site.
